@@ -1,7 +1,4 @@
 
-<a href="https://youtu.be/dtBp4dob4pE?si=64FSELoptlb62IYT" target="_blank">
-  <img src="./images/thum galaxy.png" alt="Thumbnail"/>
-</a>
 
 
 ---
